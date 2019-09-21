@@ -19,14 +19,16 @@ I am quite patient, sociable, hardworking and know how to work in a team. In the
  - Python
 
   
-## ***Code example ***
-> function persistence(num) {
->  var i=0;
->   while (num.toString().length!=1){
-> i++ num = [...num+''].reduce((sum,current)=>sum*current)
-> };
->  return i; 
->  }
+## ***Code example***
+```
+function persistence(num) {
+var i=0;
+while (num.toString().length!=1){
+ i++ num = [...num+''].reduce((sum,current)=>sum*current)
+};
+ return i; 
+};
+```
 
 
 ## ***Experience***
